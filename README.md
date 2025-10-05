@@ -9,6 +9,8 @@ Skills involved: **data exploration**, **visualizations**, **sentiment analysis*
 
 Working on this project with [Christopher Chen](https://github.com/cchen607).  
 
+-----
+
 **Early Visualizations (Made in RStudio)**
 
 <p align="center">
