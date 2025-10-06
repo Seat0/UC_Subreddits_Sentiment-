@@ -1,4 +1,4 @@
-# UC Subreddits Sentiment
+# UC Subreddits Sentiment Analysis Project (Work in progress)
 
 Using Python to scrape subreddit data and using the Ollama package with llama 3.2 model to determine post sentiments. 
 
