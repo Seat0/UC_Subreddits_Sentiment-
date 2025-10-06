@@ -1,7 +1,7 @@
 # UC Subreddit Sentiment Analysis Project 
 
 (In progress)
-Using Python to scrape subreddit data and using the Ollama package with llama 3.2 model to determine post sentiments. 
+Using Python to scrape subreddit data and using the Ollama package with llama 3.2 model to determine user posts sentiments. 
 
 Working on analyzing micropolitical climates across UC campuses through subreddit discussions. The goal of this project is to analyze the relationship between student sentiment and the graduation rates across 
 University of California campuses using IPEDS and scraped Reddit data.
